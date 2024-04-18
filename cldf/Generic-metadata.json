@@ -9,18 +9,26 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:identifier": "https://doi.org/10.1007/s00114-006-0088-z",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:source": "sources.bib",
     "dc:subject": {
         "family": "Bantu",
         "analysis": "bayesian",
         "scaling": "substitutions"
     },
     "dc:title": "Phlorest phylogeny derived from Rexov\u00e1 et al. 2006 'Cladistic analysis of Bantu languages: a new tree based on combined lexical and grammatical data'",
+    "dcat:accessURL": "https://github.com/phlorest/rexova_et_al2006",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "data.nex",
             "rdf:type": "prov:Entity",
             "dc:description": "The data underlying the analysis which created the phylogeny",
             "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/rexova_et_al2006",
+            "rdf:type": "prov:Entity",
+            "dc:created": "f9dfea2",
+            "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",

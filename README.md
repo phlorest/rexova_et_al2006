@@ -1,5 +1,7 @@
 # Phlorest phylogeny derived from Rexová et al. 2006 'Cladistic analysis of Bantu languages: a new tree based on combined lexical and grammatical data'
 
+[![CLDF validation](https://github.com/phlorest/rexova_et_al2006/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/rexova_et_al2006/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
