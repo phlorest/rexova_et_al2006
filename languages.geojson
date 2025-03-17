@@ -1,4 +1,1250 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.61877,
+          4.10208
+        ]
+      },
+      "properties": {
+        "Name": "A24Duala",
+        "Glottocode": "dual1243",
+        "Glottolog_Name": "Duala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4213,
+          3.80765
+        ]
+      },
+      "properties": {
+        "Name": "A43aBasaa",
+        "Glottocode": "basa1284",
+        "Glottolog_Name": "Basa (Cameroon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67,
+          4.75
+        ]
+      },
+      "properties": {
+        "Name": "A44Nen",
+        "Glottocode": "tune1261",
+        "Glottolog_Name": "Tunen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0982,
+          4.72603
+        ]
+      },
+      "properties": {
+        "Name": "A53Rikpa",
+        "Glottocode": "bafi1243",
+        "Glottolog_Name": "Bafia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93646,
+          4.21141
+        ]
+      },
+      "properties": {
+        "Name": "A72Ewondo",
+        "Glottocode": "ewon1239",
+        "Glottolog_Name": "Ewondo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6365,
+          3.16141
+        ]
+      },
+      "properties": {
+        "Name": "A74Bulu",
+        "Glottocode": "bulu1251",
+        "Glottolog_Name": "Bulu (Cameroon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.623277,
+          -2.384219
+        ]
+      },
+      "properties": {
+        "Name": "B74Boma",
+        "Glottocode": "teke1278",
+        "Glottolog_Name": "Teke-Eboo-Nzikou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2341,
+          -3.8231
+        ]
+      },
+      "properties": {
+        "Name": "B85Yanz1",
+        "Glottocode": "yans1239",
+        "Glottolog_Name": "Yansi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7508,
+          -0.69688
+        ]
+      },
+      "properties": {
+        "Name": "C24Koyo1",
+        "Glottocode": "koyo1242",
+        "Glottolog_Name": "Koyo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.227,
+          -0.87437
+        ]
+      },
+      "properties": {
+        "Name": "C32Bobang",
+        "Glottocode": "bang1354",
+        "Glottolog_Name": "Bobangi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9669,
+          -2.85653
+        ]
+      },
+      "properties": {
+        "Name": "C34Sakata",
+        "Glottocode": "saka1287",
+        "Glottolog_Name": "Sakata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14148,
+          1.45357
+        ]
+      },
+      "properties": {
+        "Name": "C41Ngombe",
+        "Glottocode": "ngom1268",
+        "Glottolog_Name": "Ngombe (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8754,
+          1.81314
+        ]
+      },
+      "properties": {
+        "Name": "C45Angba",
+        "Glottocode": "ngel1238",
+        "Glottolog_Name": "Ngelima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8389,
+          1.6207
+        ]
+      },
+      "properties": {
+        "Name": "C52So4B",
+        "Glottocode": "mbes1238",
+        "Glottolog_Name": "Mbesa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3098,
+          0.36906
+        ]
+      },
+      "properties": {
+        "Name": "C55Kele2",
+        "Glottocode": "kele1255",
+        "Glottolog_Name": "Kele-Foma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4259,
+          -1.54228
+        ]
+      },
+      "properties": {
+        "Name": "C61Mongo",
+        "Glottocode": "mong1338",
+        "Glottolog_Name": "Mongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.546,
+          -4.29314
+        ]
+      },
+      "properties": {
+        "Name": "C71Tetela",
+        "Glottocode": "tete1250",
+        "Glottolog_Name": "Tetela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1748,
+          -2.32162
+        ]
+      },
+      "properties": {
+        "Name": "C76Ombo",
+        "Glottocode": "ombo1238",
+        "Glottolog_Name": "Ombo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4556,
+          -4.69463
+        ]
+      },
+      "properties": {
+        "Name": "C83Bushon",
+        "Glottocode": "bush1247",
+        "Glottolog_Name": "Bushoong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3343,
+          -1.95874
+        ]
+      },
+      "properties": {
+        "Name": "D12Lengol",
+        "Glottocode": "leng1258",
+        "Glottolog_Name": "Lengola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.104,
+          -1.57031
+        ]
+      },
+      "properties": {
+        "Name": "D13Mituku",
+        "Glottocode": "mitu1240",
+        "Glottolog_Name": "Mituku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0,
+          -4.1
+        ]
+      },
+      "properties": {
+        "Name": "D14Enya1",
+        "Glottocode": "enya1249",
+        "Glottolog_Name": "Enya-Kindu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1424,
+          -3.83196
+        ]
+      },
+      "properties": {
+        "Name": "D25Lega2",
+        "Glottocode": "lega1249",
+        "Glottolog_Name": "Lega-Shabunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6083,
+          -4.013
+        ]
+      },
+      "properties": {
+        "Name": "D26Binja",
+        "Glottocode": "zimb1251",
+        "Glottolog_Name": "Zimba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3274,
+          -5.37545
+        ]
+      },
+      "properties": {
+        "Name": "D28Holoho",
+        "Glottocode": "holo1240",
+        "Glottolog_Name": "Holoholo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "Name": "D35Bodo1",
+        "Glottocode": "bodo1272",
+        "Glottolog_Name": "Bodo (Central African Republic)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7144,
+          -0.76333
+        ]
+      },
+      "properties": {
+        "Name": "D37Kumu1",
+        "Glottocode": "komo1260",
+        "Glottolog_Name": "Komo (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.31546,
+          -1.29357
+        ]
+      },
+      "properties": {
+        "Name": "D43Nyanga",
+        "Glottocode": "nyan1304",
+        "Glottolog_Name": "Nyanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.719,
+          -0.29005
+        ]
+      },
+      "properties": {
+        "Name": "E51Gikuyu",
+        "Glottocode": "kiku1240",
+        "Glottolog_Name": "Kikuyu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9532,
+          -1.60827
+        ]
+      },
+      "properties": {
+        "Name": "E55Kamba",
+        "Glottocode": "kamb1297",
+        "Glottolog_Name": "Kamba (Kenya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3357,
+          -3.33743
+        ]
+      },
+      "properties": {
+        "Name": "E62Caga1",
+        "Glottocode": "moch1256",
+        "Glottolog_Name": "Mochi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2897,
+          -2.31587
+        ]
+      },
+      "properties": {
+        "Name": "E71Pokomo",
+        "Glottocode": "poko1261",
+        "Glottolog_Name": "Pokomo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8765,
+          -3.16082
+        ]
+      },
+      "properties": {
+        "Name": "F21Sukuma",
+        "Glottocode": "suku1261",
+        "Glottolog_Name": "Sukuma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.94452,
+          -5.08559
+        ]
+      },
+      "properties": {
+        "Name": "F22Nyamwe",
+        "Glottocode": "nyam1276",
+        "Glottolog_Name": "Nyamwezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9457,
+          -3.47335
+        ]
+      },
+      "properties": {
+        "Name": "F23Sumbwa",
+        "Glottocode": "sumb1240",
+        "Glottolog_Name": "Sumbwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.29,
+          -4.8
+        ]
+      },
+      "properties": {
+        "Name": "G23Shamba",
+        "Glottocode": "sham1280",
+        "Glottolog_Name": "Shambala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.624,
+          -8.25605
+        ]
+      },
+      "properties": {
+        "Name": "G42Swahil",
+        "Glottocode": "swah1253",
+        "Glottolog_Name": "Swahili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2321,
+          -9.35868
+        ]
+      },
+      "properties": {
+        "Name": "G65Kinga",
+        "Glottocode": "nucl1379",
+        "Glottolog_Name": "Kinga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1,
+          -3.95895
+        ]
+      },
+      "properties": {
+        "Name": "H11Bembe",
+        "Glottocode": "beem1239",
+        "Glottolog_Name": "Beembe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9657,
+          -5.1263
+        ]
+      },
+      "properties": {
+        "Name": "H12bYombe",
+        "Glottocode": "yomb1244",
+        "Glottolog_Name": "Yombe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.775,
+          -5.984
+        ]
+      },
+      "properties": {
+        "Name": "H31Yaka1",
+        "Glottocode": "yaka1269",
+        "Glottolog_Name": "Yaka-Pelende-Lonzo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.15153,
+          0.66884
+        ]
+      },
+      "properties": {
+        "Name": "J15Ganda",
+        "Glottocode": "gand1255",
+        "Glottolog_Name": "Ganda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4846,
+          -1.70878
+        ]
+      },
+      "properties": {
+        "Name": "J22HHaya",
+        "Glottocode": "haya1250",
+        "Glottolog_Name": "Haya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7719,
+          0.68043
+        ]
+      },
+      "properties": {
+        "Name": "J31cBukus",
+        "Glottocode": "buku1249",
+        "Glottolog_Name": "Bukusu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0335,
+          0.3652
+        ]
+      },
+      "properties": {
+        "Name": "J34Samia",
+        "Glottocode": "saam1283",
+        "Glottolog_Name": "Saamia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6122,
+          -2.55777
+        ]
+      },
+      "properties": {
+        "Name": "J53Shi",
+        "Glottocode": "shii1238",
+        "Glottolog_Name": "Shi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6441,
+          -1.56771
+        ]
+      },
+      "properties": {
+        "Name": "J61Rwanda",
+        "Glottocode": "kiny1244",
+        "Glottolog_Name": "Kinyarwanda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.97,
+          -2.94
+        ]
+      },
+      "properties": {
+        "Name": "J62Rundi",
+        "Glottocode": "rund1242",
+        "Glottolog_Name": "Rundi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3992,
+          -9.66082
+        ]
+      },
+      "properties": {
+        "Name": "K11Ciokwe",
+        "Glottocode": "chok1245",
+        "Glottolog_Name": "Chokwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2924,
+          -13.5382
+        ]
+      },
+      "properties": {
+        "Name": "K14Lwena",
+        "Glottocode": "luva1239",
+        "Glottolog_Name": "Luvale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7398,
+          -17.7052
+        ]
+      },
+      "properties": {
+        "Name": "K21Salamp",
+        "Glottocode": "lozi1239",
+        "Glottolog_Name": "Lozi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8662,
+          -11.1793
+        ]
+      },
+      "properties": {
+        "Name": "K22Lunda",
+        "Glottocode": "lund1266",
+        "Glottolog_Name": "Lunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4164,
+          -8.86971
+        ]
+      },
+      "properties": {
+        "Name": "K23Ruund",
+        "Glottocode": "ruun1238",
+        "Glottolog_Name": "Ruund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.67,
+          -15.01
+        ]
+      },
+      "properties": {
+        "Name": "K31Luyi",
+        "Glottocode": "luya1241",
+        "Glottolog_Name": "Luyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.256,
+          -17.9026
+        ]
+      },
+      "properties": {
+        "Name": "K33Kwanga",
+        "Glottocode": "kwan1273",
+        "Glottolog_Name": "Kwangali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6678,
+          -18.1681
+        ]
+      },
+      "properties": {
+        "Name": "K39Dcirik",
+        "Glottocode": "diri1252",
+        "Glottolog_Name": "Diriku-Shambyu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.572,
+          -8.14754
+        ]
+      },
+      "properties": {
+        "Name": "K50Holu",
+        "Glottocode": "holu1245",
+        "Glottolog_Name": "Holu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.041,
+          -5.11888
+        ]
+      },
+      "properties": {
+        "Name": "K51Mbala",
+        "Glottocode": "mbal1257",
+        "Glottolog_Name": "Mbala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5759,
+          -5.60445
+        ]
+      },
+      "properties": {
+        "Name": "K53Kwezo",
+        "Glottocode": "kwes1244",
+        "Glottolog_Name": "Kwese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9027,
+          -7.15104
+        ]
+      },
+      "properties": {
+        "Name": "L21Kete1",
+        "Glottocode": "kete1252",
+        "Glottolog_Name": "Kete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2765,
+          -5.71993
+        ]
+      },
+      "properties": {
+        "Name": "L23Songye",
+        "Glottocode": "song1303",
+        "Glottolog_Name": "Songe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2438,
+          -4.31464
+        ]
+      },
+      "properties": {
+        "Name": "L27Bangub",
+        "Glottocode": "bang1350",
+        "Glottolog_Name": "Bangubangu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4422,
+          -5.72717
+        ]
+      },
+      "properties": {
+        "Name": "L31LubaK",
+        "Glottocode": "luba1249",
+        "Glottolog_Name": "Luba-Lulua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8918,
+          -8.2816
+        ]
+      },
+      "properties": {
+        "Name": "L33LubaS",
+        "Glottocode": "luba1250",
+        "Glottolog_Name": "Luba-Katanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8462,
+          -10.0236
+        ]
+      },
+      "properties": {
+        "Name": "L35Sanga",
+        "Glottocode": "sang1331",
+        "Glottolog_Name": "Sanga (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7646,
+          -12.4129
+        ]
+      },
+      "properties": {
+        "Name": "L42Kaonde",
+        "Glottocode": "kaon1241",
+        "Glottolog_Name": "Kaonde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7763,
+          -9.71018
+        ]
+      },
+      "properties": {
+        "Name": "M31Nyakyu",
+        "Glottocode": "nyak1260",
+        "Glottolog_Name": "Nyakyusa-Ngonde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2993,
+          -10.6122
+        ]
+      },
+      "properties": {
+        "Name": "M42Bemba",
+        "Glottocode": "bemb1257",
+        "Glottolog_Name": "Bemba (Zambia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9026,
+          -12.3366
+        ]
+      },
+      "properties": {
+        "Name": "M54Lamba",
+        "Glottocode": "lamb1271",
+        "Glottolog_Name": "Lamba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.103495,
+          -17.422325
+        ]
+      },
+      "properties": {
+        "Name": "M64Tonga",
+        "Glottocode": "tong1318",
+        "Glottolog_Name": "Tonga (Zambia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8108,
+          -14.8047
+        ]
+      },
+      "properties": {
+        "Name": "N31aNyanj",
+        "Glottocode": "nyan1308",
+        "Glottolog_Name": "Nyanja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9829,
+          -19.7933
+        ]
+      },
+      "properties": {
+        "Name": "N44Sena",
+        "Glottocode": "nucl1396",
+        "Glottolog_Name": "Sena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2387,
+          -13.6119
+        ]
+      },
+      "properties": {
+        "Name": "P21Yao1",
+        "Glottocode": "yaoo1241",
+        "Glottolog_Name": "Yao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8052,
+          -14.8509
+        ]
+      },
+      "properties": {
+        "Name": "P31Makwa",
+        "Glottocode": "makh1264",
+        "Glottolog_Name": "Makhuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4148,
+          -12.4763
+        ]
+      },
+      "properties": {
+        "Name": "R11Umbund",
+        "Glottocode": "umbu1257",
+        "Glottolog_Name": "Umbundu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.58,
+          -17.7176
+        ]
+      },
+      "properties": {
+        "Name": "R21Kwanya",
+        "Glottocode": "kuan1247",
+        "Glottolog_Name": "Kuanyama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5655,
+          -21.0231
+        ]
+      },
+      "properties": {
+        "Name": "R31Herero",
+        "Glottocode": "here1253",
+        "Glottolog_Name": "Herero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.75725,
+          -17.20849
+        ]
+      },
+      "properties": {
+        "Name": "S10Shona",
+        "Glottocode": "shon1251",
+        "Glottolog_Name": "Shona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9523,
+          -22.188
+        ]
+      },
+      "properties": {
+        "Name": "S21Venda",
+        "Glottocode": "vend1245",
+        "Glottolog_Name": "Venda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7587,
+          -24.368
+        ]
+      },
+      "properties": {
+        "Name": "S31dKhala",
+        "Glottocode": "tswa1253",
+        "Glottolog_Name": "Tswana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2,
+          -28.9
+        ]
+      },
+      "properties": {
+        "Name": "S42Zulu",
+        "Glottocode": "zulu1248",
+        "Glottolog_Name": "Zulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8105,
+          -23.5754
+        ]
+      },
+      "properties": {
+        "Name": "S53Tsonga",
+        "Glottocode": "tson1249",
+        "Glottolog_Name": "Tsonga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6167,
+          -26.7329
+        ]
+      },
+      "properties": {
+        "Name": "S54Ronga",
+        "Glottocode": "rong1268",
+        "Glottolog_Name": "Ronga"
+      }
+    }
+  ]
 }

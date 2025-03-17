@@ -11,6 +11,7 @@
     "analysis": "bayesian",
     "family": "Bantu",
     "cldf": "",
+    "artefacts": ["raw/data.nex"],
     "missing": {
         "characters": "not readily available."
     },

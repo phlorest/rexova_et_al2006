@@ -7,7 +7,7 @@ bs4==0.0.2
 certifi==2024.2.2
 chardet==5.2.0
 cldfbench==1.14.0
--e git+https://github.com/phlorest/rexova_et_al2006.git@f9dfea22d45ca3c24a21b14cc0617b75588313b0#egg=cldfbench_rexova_et_al2006
+-e git+https://github.com/phlorest/rexova_et_al2006.git@675ae2324370a1808c95904bf3010d6705df93aa#egg=cldfbench_rexova_et_al2006
 cldfcatalog==1.5.1
 cldfviz==1.0.2
 cldfzenodo==2.1.1
