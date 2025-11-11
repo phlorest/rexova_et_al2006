@@ -9,5 +9,26 @@
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Rexov\u00e1, K., Bastin, Y., &amp; Frynta, D. (2006). Cladistic analysis of Bantu languages: a new tree based on combined lexical and grammatical data. Naturwissenschaften, 93(4), 189\u2013194. https://doi.org/10.1007/s00114-006-0088-z</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "creators": [
+        {
+            "name": "Kate\u0159ina Rexov\u00e1"
+        },
+        {
+            "name": "Yvonne Bastin"
+        },
+        {
+            "name": "Daniel Frynta"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Editor"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Editor"
+        }
+    ]
 }
