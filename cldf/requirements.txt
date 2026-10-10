@@ -4,7 +4,7 @@ babel==2.18.0
 bibtexparser==2.1.0
 certifi==2026.7.22
 cldfbench==2.0.1
--e git+https://github.com/phlorest/rexova_et_al2006.git@a383fef0b24b2b629af03013d6c5029b41eb97e5#egg=cldfbench_rexova_et_al2006
+-e git+https://github.com/phlorest/rexova_et_al2006.git@cc8ee3fb191d6103fcc43861bdb525f7ad62bb78#egg=cldfbench_rexova_et_al2006
 cldfcatalog==1.7.0
 cldfviz==2.0.0
 cldfzenodo==3.0.0

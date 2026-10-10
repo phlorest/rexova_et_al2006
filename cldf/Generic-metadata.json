@@ -27,7 +27,7 @@
         {
             "rdf:about": "https://github.com/phlorest/rexova_et_al2006",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-5-ga383fef",
+            "dc:created": "v1.0-7-gcc8ee3f",
             "dc:title": "Repository"
         },
         {
