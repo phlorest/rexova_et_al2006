@@ -27,20 +27,20 @@
         {
             "rdf:about": "https://github.com/phlorest/rexova_et_al2006",
             "rdf:type": "prov:Entity",
-            "dc:created": "456a45d",
+            "dc:created": "v1.0-5-ga383fef",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.12.3"
+            "dc:description": "3.14.8"
         },
         {
             "dc:title": "python-packages",
